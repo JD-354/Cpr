@@ -251,9 +251,10 @@ font-weight: bold; color: #2c3e50; font-size: 1.2em; margin-top: 15px;
 </div>
 
 </div>
-<a class="nav-link btn btn-primary" href="(link unavailable)">Confirmar Pedido</a>
+<a href="https://jd-354.github.io/z/">
+<button class="btn btn-primary w-100">Confirmar Pedido</button>
+</a>
 
-<button type="submit" onclick="window.location.href="https://jd-354.github.io/Z/">Confirmar Pedido</button>
 
 </form>
 
