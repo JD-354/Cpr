@@ -255,7 +255,7 @@ font-weight: bold; color: #2c3e50; font-size: 1.2em; margin-top: 15px;
 <button class="btn btn-primary w-100">Confirmar Pedido</button>
 </a>
 
-
+<a href="https://jd-354.github.io/z/">Inicio</a>
 </form>
 
 <div id="successMessage" class="success-message">
