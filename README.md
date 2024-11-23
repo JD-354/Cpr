@@ -253,8 +253,9 @@ font-weight: bold; color: #2c3e50; font-size: 1.2em; margin-top: 15px;
 </div>
 
 
-<a class="nav-link" href="https://jd-354.github.io/Z/"> <button type="submit">Confirmar Pedido</a>
+<a class="nav-link" href="https://jd-354.github.io/Z/"> <button type="submit">Confirmar Pedido
 </button>
+</a>
 </form>
 
 <div id="successMessage" class="success-message">
